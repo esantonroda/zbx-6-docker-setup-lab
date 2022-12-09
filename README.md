@@ -3,7 +3,7 @@ How to setup a lab in docker to test zabbix 6 lts in docker
 
 ## how to
 
-clone this repo and swith to the repo folder
+clone this repo and switch to the repo folder
 
 ```bash
 git clone git@github.com:esantonroda/zbx-6-docker-setup-lab.git
